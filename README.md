@@ -8,7 +8,7 @@ O projeto também envolve a definição da Arquitetura da Informação (AI), con
 
 ## Equipe
 
-- Guilherme Victor Machado
+- Guilherme Victor Machado (gvm7b)
 - Tiago Albuquerque Portella
 - Pedro Bellarmino Cardoso (pedrobellarminocardoso)
 - Leonardo da Cruz Ramos (leoleojogos)
